@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "clean-css": "0.9.1",
-    "csslint": "0.9.9",
+    "csslint": "https://github.com/sergeylukin/csslint/archive/v0.9.10-osfree.tar.gz",
     "gzip-js": "0.3.1"
   },
   "devDependencies": {
